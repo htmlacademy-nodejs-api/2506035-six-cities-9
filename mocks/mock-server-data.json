@@ -1,0 +1,60 @@
+{
+  "api": {
+    "id": [
+      "35047fcd-54de-4631-afaf-0e9599536bcc",
+      "4d4b914e-1110-4746-9ae1-f90a9759c376"
+    ],
+    "title": [
+      "Penthouse, 4-5 rooms + 5 balconies",
+      "Loft Studio in the Central Area"
+    ],
+    "type": [
+      "house",
+      "apartment"
+    ],
+    "price": [
+      824,
+      481
+    ],
+    "previewImage": [
+      "https://16.design.htmlacademy.pro/static/hotel/4.jpg",
+      "https://16.design.htmlacademy.pro/static/hotel/16.jpg"
+    ],
+    "cityName": [
+      "Paris"
+    ],
+    "cityLatitude": [
+      48.85661
+    ],
+    "cityLongitude": [
+      2.351499
+    ],
+    "cityZoom": [
+      13
+    ],
+    "locationLatitude": [
+      48.868610000000004,
+      48.858610000000006
+    ],
+    "locationLongitude": [
+      2.342499,
+      2.330499
+    ],
+    "locationZoom": [
+      16,
+      13
+    ],
+    "isFavorite": [
+      false,
+      true
+    ],
+    "isPremium": [
+      false,
+      true
+    ],
+    "rating": [
+      4.3,
+      3.5
+    ]
+  }
+}
